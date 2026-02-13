@@ -1,4 +1,4 @@
-https://github.com/BikeySah/Fern-and-Petal-Data-Analysis/blob/main/fnp-gift.svg Ferns & Petals Sales Analytics Project
+Ferns & Petals Sales Analytics Project
 
 ### An End-to-End Excel Business Intelligence Case Study
 
